@@ -17,7 +17,7 @@ var apiGemini string
 //go:embed data.csv
 var data string
 
-var variant string = "gemini-2.0-flash-lite"
+var variant string = "gemini-2.5-flash-preview-05-20"
 
 func Makesite(ctx context.Context, in string) (string, error) {
 	// ctx??
