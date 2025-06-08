@@ -5,7 +5,8 @@ A web application that helps you gain insights from any dataset using natural la
 ## Live Demo
 
 **Deployed Version:** [https://2go.my](https://2go.my)
-[![video]()](./video.mp4)
+
+<video src="./video.mp4" width="320" height="240" controls></video>
 
 ## Overview
 
