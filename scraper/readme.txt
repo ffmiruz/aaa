@@ -1,0 +1,1 @@
+scrape using gemini URL Context https://ai.google.dev/gemini-api/docs/url-context
